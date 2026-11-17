@@ -1,0 +1,6 @@
+Flask
+Flask-PyMongo
+Flask-Cors
+Flask-JWT-Extended
+python-dotenv
+email-validator
